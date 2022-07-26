@@ -27,7 +27,7 @@
 ### Advertisement
 - 오픈 카톡방 _[iOS Swift (현업/취준/전향) 질문&정보 공유방](https://open.kakao.com/o/goTHKG8b)_ and _[노션 홈페이지](https://swift-ios.notion.site/iOS-Swift-290e91a4e3114d8c82ae9004213d1351)_ 운영 중
 
-  <img src="/resources/advertise-screen-1.jpeg" width="350"/>
+  <img src="/resources/advertise-screen-1-1.jpeg" width="350"/>
 
 - Toy Project _[데이다이어리](https://apps.apple.com/gb/app/daydiary/id1627925723)_ 서비스 중
 
