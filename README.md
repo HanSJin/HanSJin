@@ -1,7 +1,7 @@
 ## ✨HanSJin
 > 심신미약으로 마음을 다스릴 때는 침참하게 노트북을 펴고 개발을 시작합니다.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanSJin&count_private=true&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanSJin&count_private=true&show_icons=true&theme=dracula&cache_seconds=1800)
 
 ### 🥇 Job Experience
 
