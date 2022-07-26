@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanSJin&count_private=true&show_icons=true&theme=dracula)
+
 ## ✨HanSJin
 > 심신이 불안정하여 마음을 다스릴 때는 침참하게 노트북을 펴고 개발을 시작합니다.
 
