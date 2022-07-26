@@ -31,6 +31,6 @@
 
   <img src="/resources/advertise-screen-1-1.jpeg" width="400"/>
 
-- Toy Project _[데이다이어리](https://apps.apple.com/gb/app/daydiary/id1627925723)_ 서비스 중
+- Toy Project _[데이다이어리](https://apps.apple.com/gb/app/daydiary/id1627925723)_ 서비스 중 (영어, 한국어, 러시아어, 우크라이나어 지원)
 
   <img src="/resources/advertise-screen-2.png" width="400"/>
