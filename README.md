@@ -17,7 +17,7 @@
 
 |||
 :-:|:-:
-| 2022 let us go fall | 스피커- UITesting 도입기 |
+| [let us go fall 2022](https://let-us-go-2022-fall.vercel.app) | 스피커 참여, [기술 블로그 기재](https://careers.drdiary.co.kr/d1be7999-79d5-4347-84d7-3da3a7b33d63) |
 | 2019 NAVER OPEN CLASS | 네이버 공채 설명회 모바일 부문 연사 |
 | 동국대학교 컴퓨터공학전공 학사 | _2009.3 ~ 2021.3_ |
 | 소프트웨어 마에스트로 7기 | _2016.6 ~ 12_ |
