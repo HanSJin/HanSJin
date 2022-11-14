@@ -17,11 +17,12 @@
 
 |||
 :-:|:-:
+| 2022 let us go fall | 스피커- UITesting 도입기 |
 | 2019 NAVER OPEN CLASS | 네이버 공채 설명회 모바일 부문 연사 |
 | 동국대학교 컴퓨터공학전공 학사 | _2009.3 ~ 2021.3_ |
 | 소프트웨어 마에스트로 7기 | _2016.6 ~ 12_ |
 
-### 🏓 Open Source Activities
+### 🏓 Open Source Activity
 * https://github.com/line/abc-kmm-location
 * https://github.com/line/abc-kmm-shared-storage
 * https://github.com/HanSJin/AVAudio-Equalizer
